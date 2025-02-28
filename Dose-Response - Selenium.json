@@ -1,0 +1,116 @@
+{
+ "kind": "TableSchema",
+ "id": "fcd41d1f4f3fe0027ec00bb0037b9bcfadca45205b335e6f6df54e43b393265c",
+ "isDeleted": false,
+ "rev": "",
+ "description": "Comparison of toxicity of four types of selenium by means of dose-response analysis.",
+ "name": "Dose-Response - Selenium",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [
+  "drc",
+  "dose response",
+  "curve fitting"
+ ],
+ "meta": [
+  {
+   "kind": "Pair",
+   "key": "PUBLISHED",
+   "value": "true"
+  },
+  {
+   "kind": "Pair",
+   "key": "SHA256",
+   "value": "fcd41d1f4f3fe0027ec00bb0037b9bcfadca45205b335e6f6df54e43b393265c"
+  }
+ ],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "",
+ "nRows": 25,
+ "columns": [
+  {
+   "kind": "ColumnSchema",
+   "id": "41da4086-d57f-4eab-8ec4-ff33604a841d",
+   "name": "type",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "e59963f8-680b-4a0d-b4b6-6a8fbcb5fd1d",
+   "name": "conc",
+   "type": "double",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "1d940624-edab-438b-8c1a-a614f91efa81",
+   "name": "total",
+   "type": "double",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "e5da7cce-e9ee-4200-be7c-b46a47770b7a",
+   "name": "dead",
+   "type": "double",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  }
+ ],
+ "dataDirectory": "data/fc/d4/fcd41d1f4f3fe0027ec00bb0037b9bcfadca45205b335e6f6df54e43b393265c",
+ "relation": {
+  "kind": "Relation",
+  "id": "e40720c9-e279-4a84-ae5e-8bf17f75019c"
+ },
+ "size": 1160
+}
